@@ -1,18 +1,15 @@
-### Olá! Eu sou o Lucas Carrieri.
-
-- 🔭 Atualmente não trabalho mas gostaria muito de trabalhar na área.
-- 🌱 Estudando HTML, JavaScript e CSS.
-- 📫 Entre em contato no email: lucascarrieridossantos@gmail.com
+<h1> Olá, Meu nome é Lucas Carrieri </h1>
 
 <div>
-<a href="https://github.com/LucasCarrieri">
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=LucasCarrieri&show_icons=False&theme=dark&include_all_commits=true&count_private=true"/>
- 
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarrieri&layout=compact&langs_count=7&theme=dark"/>
- 
-<img align="right" alt="tanjiro" height="148" width="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <a href="https://github.com/LucasCarrieri">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=ellen2121&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarrieri&layout=compact&langs_count=7&theme=react" />
 </div>
  
+ ![part1](https://user-images.githubusercontent.com/83976561/137820530-2c2d8157-c94e-48af-9788-bc4b5b16112c.gif)
+ ![part2](https://user-images.githubusercontent.com/83976561/137820628-dba9c39e-b8e9-4207-9cb5-7f85e955b8c6.gif)
+ ![part3](https://user-images.githubusercontent.com/83976561/137820678-eb91b7c9-cc84-4a9e-bfa7-a3e0624bf189.gif)
+
 <br>
      
 <div style="display: inline_block"><br>
