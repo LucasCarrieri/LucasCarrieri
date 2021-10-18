@@ -4,7 +4,7 @@
 - 🌱 Estudando HTML, JavaScript e CSS.
 - 📫 Entre em contato no email: lucascarrieridossantos@gmail.com
 
-<div align="center">
+<div align="inline">
      <a href="https://github.com/LucasCarrieri">
        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCarrieri&show_icons=False&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarrieri&layout=compact&langs_count=7&theme=dark"/>
