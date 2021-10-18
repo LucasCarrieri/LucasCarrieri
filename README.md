@@ -4,12 +4,15 @@
 - 🌱 Estudando HTML, JavaScript e CSS.
 - 📫 Entre em contato no email: lucascarrieridossantos@gmail.com
 
-<div align="center">
-     <a href="https://github.com/LucasCarrieri">
-       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCarrieri&show_icons=False&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarrieri&layout=compact&langs_count=7&theme=dark"/>
+<div>
+<a href="https://github.com/LucasCarrieri">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasCarrieri&show_icons=False&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarrieri&layout=compact&langs_count=7&theme=dark"/>
+<img align="right"alt="tanjiro" height="150" width="150" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
-
+ 
+<br>
+     
 <div style="display: inline_block"><br>
  <img align="center" alt="Lucas.js" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  <img align="center" alt="Lucas.java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -18,13 +21,7 @@
  <img align="center" alt="Lucas.SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
  </div>
   
-  
-![giphy](https://user-images.githubusercontent.com/83976561/137817939-b3397e55-de50-4df7-aab1-4b85c9b05f94.gif)
-
-
-
-
-  
+   
 ##
 
  <div>
