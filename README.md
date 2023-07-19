@@ -6,7 +6,6 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCarrieri&layout=compact&langs_count=7&theme=react" />
 </div>
 
- ![part2](https://user-images.githubusercontent.com/83976561/137820628-dba9c39e-b8e9-4207-9cb5-7f85e955b8c6.gif)
 
 <br>
      
